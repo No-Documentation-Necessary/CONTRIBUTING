@@ -34,10 +34,17 @@ EXAMPLE:
 
 # Dates:
 * Wrap dates in ()
-* Use `::` to notate that an event happened on a date
+* Use ` :: ` to notate that an event happened on a date
 * If an event happened over multiple years, use ` - `
 * If an event happened AROUND a time, use `~`
 EXAMPLES:
 * `Birthday :: (1/1/1234)`
-* `Civil War :: (4/12/1861 - 4/9/1865`
+* `Civil War :: (4/12/1861 - 4/9/1865)`
 * `Random Event :: (~2022)`
+
+
+# Others
+* ***Use ` :: ` in replacement of `:`, `-` or any other symbol that notates relation***
+  * This is to standardize formatting and study guides
+* Use `-->` to notate a connection between two events / facts
+  * Underwater earthquake --> Tsunami
