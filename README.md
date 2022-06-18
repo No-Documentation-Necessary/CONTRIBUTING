@@ -31,3 +31,13 @@ EXAMPLE:
   - 16th US president
   - President during **Civil War**
     - Led the **Union** to **victory**
+
+# Dates:
+* Wrap dates in ()
+* Use `::` to notate that an event happened on a date
+* If an event happened over multiple years, use ` - `
+* If an event happened AROUND a time, use `~`
+EXAMPLES:
+* `Birthday :: (1/1/1234)`
+* `Civil War :: (4/12/1861 - 4/9/1865`
+* `Random Event :: (~2022)`
