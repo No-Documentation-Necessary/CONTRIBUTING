@@ -16,5 +16,5 @@
 * Wrap subheaders with {}
 * 14 px font
 * Red
-* **Bold**, <u>underlined</u>
-* Example: <u>**Emancipation Proclamation**</u>
+* **Bold**, u͟n͟d͟e͟r͟l͟i͟n͟e͟d͟
+* Example: **E͟m͟a͟n͟c͟i͟p͟a͟t͟i͟o͟n͟ ͟P͟r͟o͟c͟l͟a͟m͟a͟t͟i͟o͟n͟**
